@@ -1,0 +1,2 @@
+# gamd
+for gando
